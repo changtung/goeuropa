@@ -1,0 +1,156 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Crazy Munch</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body class="landing">
+
+		<!-- Header -->
+			<header id="header" class="alt inneralt">
+				<h1><a href="index.html">CrazyMunch</a></h1>
+				<a href="#nav">Menu</a>
+			</header>
+
+		<!-- Nav -->
+			<nav id="nav">
+				<ul class="links">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="product.html">View Products</a></li>
+					<li><a href="index.html#one">New Subscription</a></li>
+					<li><a href="contact.html">Contact</a></li>
+					<li><a href="login.html">Log In</a></li>
+				</ul>
+			</nav>
+
+		<!-- Banner -->
+			<section id="banner">
+				<i class="fa fa-check"></i>
+				<h2>Healthy snacking for awesome people</h2>
+				<p>Delivery start from May, 1 2016</p>
+				<ul class="actions">
+					<li><a href="#" class="button big special">Become a member</a><br/>
+						<small>*Get 50% off on your first box. Use "LAUNCH50" on checkout.</small>
+					</li>
+				</ul>
+			</section>
+		
+		<!-- Two -->
+			<section id="two" class="wrapper special">
+				<div class="inner">
+					<header class="major narrow">
+						<h2>Snacks that are healthy</h2>
+						<p>If you love your current snacks don't fret! Our healthy snacks are tasty as well!. Win=Win!</p>
+					</header>
+					<div class="image-grid">
+						<div href="#" class="image inner-poduct-image">
+							<img src="images/nuts.png" alt="" />
+							<div class="ovrly">
+								<p>Nuts, Seeds, Nut Mixes</p>
+								<!--<a class="btn12 m-btn" href="">MORE</a>-->
+								<a class="btn12 v-btn" href="nuts.html">VIEW</a>
+							</div>
+						</div>
+						
+						<div href="#" class="image inner-poduct-image">
+							<img src="images/slide12.jpg" alt="" />
+							<div class="ovrly">
+								<p> Vegetable & Fruit chips </p>
+								
+								<a class="btn12 v-btn" href="chips.html">VIEW</a>
+							</div>
+						</div>
+						<div href="#" class="image inner-poduct-image">
+							<img src="images/baked.jpg" alt="" />
+							<div class="ovrly">
+								<p>Baked Treats</p>
+								
+								<a class="btn12 v-btn" href="Baked.html">VIEW</a>
+							</div>
+						</div>
+						<div href="#" class="image inner-poduct-image">
+							<img src="images/img10.jpg" alt="" />
+							<div class="ovrly">
+								<p> Dried Fruit, Chews</p>
+								
+								<a class="btn12 v-btn" href="Chews.html">VIEW</a>
+							</div>
+						</div>
+						<div href="#" class="image inner-poduct-image">
+							<img src="images/img5.jpg" alt="" />
+							<div class="ovrly">
+								<p>Granola, Oatmeal & Nut Bars</p>
+								
+								<a class="btn12 v-btn" href="Bars.html">VIEW</a>
+							</div>
+						</div>
+						<div href="#" class="image inner-poduct-image">
+							<img src="images/img1.jpg" alt="info.html" />
+							<div class="ovrly">
+								<p>Healthy tea by types</p>
+								
+								<a class="btn12 v-btn" href="tea.html">VIEW</a>
+							</div>
+						</div>
+						
+					</div>
+					
+				</div>
+			</section>
+		
+		
+			
+
+		
+
+		<!-- Three -->
+			<section id="three" class="wrapper style3 special">
+				<div class="inner">
+					<header class="major narrow	">
+						<h2 style="color:#fff !important;">Our vision behind CrazyMunch</h2>
+						<p style="color:#fff !important;">Health is a Habit</p>
+					</header>
+					<ul class="actions">
+						<li><a href="https://www.youtube.com/watch?v=7sET9t-plCQ" class="button big alt green" target="_blank">View video</a></li>
+					</ul>
+				</div>
+			</section>
+
+		
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<ul class="icons">
+						<li><a href="https://www.facebook.com/crazymunch/" class="icon fa-facebook">
+							<span class="label">Facebook</span>
+						</a></li>
+						<li><a href="https://twitter.com/crazymunchhq/" class="icon fa-twitter">
+							<span class="label">Twitter</span>
+						</a></li>
+						<li><a href="https://www.instagram.com/crazymunchhq/" class="icon fa-instagram">
+							<span class="label">Instagram</span>
+						</a></li>
+					</ul>
+					<ul class="copyright">
+						<li>Copyright &copy; 2016 Enterslice Retail Pvt Ltd.</li>
+						<li>All rights reserved.</li>
+						<li><a href="privacy.html">Privacy Policy</a></li>
+						<li><a href="terms.html">Terms & Conditions.</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+	</body>
+</html>
